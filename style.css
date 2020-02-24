@@ -1,0 +1,17 @@
+body,html {
+    background: linear-gradient(to bottom, #33ccff 0%, #66ffff 100%);
+    margin: 0;
+    height: auto;
+    max-height: auto;
+    
+  
+}
+
+.hapus {
+    text-decoration: none;
+    color: rgb(112, 221, 248);
+    font-size: 16px;
+}
+.hapus:hover {
+    color: red;
+}
